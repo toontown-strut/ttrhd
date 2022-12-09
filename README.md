@@ -1,5 +1,9 @@
-# ttrhd
+# ttr vanilla hd
 Toontown Rewritten HD Content Pack by NodeMixaholic and the Toontown Strut Team.
+
+## Goal
+
+To provide a nice, HD, vanilla-like toontown experience.
 
 ## Instructions
 
